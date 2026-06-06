@@ -83,7 +83,7 @@ Optional flags:
 
 ### 5. `iaa.py` — Inter-annotator agreement
 
-Computes **Krippendorff's alpha** with Jaccard distance over token sets, globally and per label, comparing the two annotators (`beatricebozzetto.tsv` and `martinavacondio.tsv`).
+Computes **Krippendorff's alpha** with Jaccard distance over token sets, globally and per label, comparing the two annotators.
 
 ```bash
 python iaa.py

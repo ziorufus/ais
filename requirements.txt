@@ -1,0 +1,7 @@
+git+https://github.com/dhfbk/webanno_tsv
+pandas
+openpyxl
+scikit-learn
+scikit-multilearn
+openai
+python-dotenv

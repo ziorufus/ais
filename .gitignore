@@ -1,0 +1,10 @@
+venv
+.env
+annotation
+annotation_1st-iaa
+gold_files
+llm_*
+txt_*
+__pycache__
+docs
+.DS_Store
